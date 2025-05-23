@@ -1,5 +1,5 @@
 {
-  "name": "@heliton-ignite-ui/tokens",
+  "name": "@heliton-ignite-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,10 +13,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@heliton-ignite-ui/tokens": "*",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@heliton-ignite-ui/tokens": "file:"
+    "@heliton-ignite-ui/react": "file:",
+    "react": "file:"
   }
 }
