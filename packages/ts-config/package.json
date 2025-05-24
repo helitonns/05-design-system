@@ -1,0 +1,9 @@
+{
+  "name": "@heliton-ignite-ui/ts-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@heliton-ignite-ui/ts-config": "file:"
+  }
+}
