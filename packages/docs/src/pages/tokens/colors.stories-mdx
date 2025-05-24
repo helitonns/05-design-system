@@ -1,0 +1,10 @@
+import { Meta, StoryObj } from '@storybook/addon-docs';
+import { ColorsGrid } from "../../components/ColorGrid";
+
+<Meta title="Tokens/Colors" />
+
+# Colors
+Essas são as cores disponíveis no sistema de design.
+
+## Paleta de Cores
+<ColorsGrid />
