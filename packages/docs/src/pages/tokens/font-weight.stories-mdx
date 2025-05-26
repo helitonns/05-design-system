@@ -1,0 +1,9 @@
+import { Meta, StoryObj } from '@storybook/addon-docs';
+import { TokensGrid } from "../../components/TokensGrid";
+import { fontWeights } from "@heliton-ignite-ui/tokens";
+
+<Meta title="Tokens/Font Weights" />
+
+# Font Weights
+
+<TokensGrid tokens={fontWeights} />
