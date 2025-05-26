@@ -25,3 +25,9 @@ yarn-error.log*
 
 # Windows system files
 Thumbs.db
+
+#Sotrybook
+sotyboo-static
+
+# turbo
+.turbo
