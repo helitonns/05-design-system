@@ -13,6 +13,7 @@
     "@heliton-ignite-ui/docs": "file:",
     "@heliton-ignite-ui/react": "*",
     "@heliton-ignite-ui/tokens": "*",
+    "phosphor-react": "^1.4.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
