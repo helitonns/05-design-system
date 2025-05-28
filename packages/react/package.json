@@ -24,6 +24,7 @@
   "dependencies": {
     "@heliton-ignite-ui/react": "file:",
     "@radix-ui/react-avatar": "^1.1.10",
+    "@radix-ui/react-checkbox": "^1.3.2",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }

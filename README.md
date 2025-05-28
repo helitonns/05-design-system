@@ -6,6 +6,6 @@
 - [x] Button
 - [x] TextInput
 - [x] TextArea
-- [ ] Checkout
+- [x] Checkout
 - [ ] Avatar
 - [ ] MultiStep
