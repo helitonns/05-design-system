@@ -7,5 +7,5 @@
 - [x] TextInput
 - [x] TextArea
 - [x] Checkout
-- [ ] Avatar
-- [ ] MultiStep
+- [x] Avatar
+- [x] MultiStep
